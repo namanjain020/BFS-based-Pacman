@@ -3,7 +3,7 @@ import { DIRECTIONS, OBJECT_TYPE, LEVEL } from "./setup";
 import GameBoard from "./GameBoard";
 import Pacman from "./Pacman";
 
-import { pacpos } from "./index";
+import { pacpos } from "../index";
 
 class queue {
   constructor() {//Initializing array
